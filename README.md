@@ -169,9 +169,3 @@ Four statistical hypotheses were tested at **α = 0.05**:
 - Extreme age outliers (customers with birth years like 1893) are present in the data — these are data entry errors and should be noted when interpreting age-based results.
 - The `data_viz` copy (pre-encoding) is retained throughout for interpretable visualizations.
 
----
-
-## 👤 Author
-
-**Marketing Campaign Analysis Project**  
-Submitted as part of a data analytics assignment.
